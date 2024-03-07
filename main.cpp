@@ -1,7 +1,7 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello, world! This is PES1UG21CS670" << std::endl;
+    cout << "Hello, world! This is PES1UG21CS670" <<endl;
     return 0;
 }
